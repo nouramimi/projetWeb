@@ -1,3 +1,6 @@
+open this :
+
+
 ![image](https://github.com/user-attachments/assets/3d0b09a2-ecda-4ecd-a987-7d1138169c06)
 
 
@@ -43,6 +46,11 @@ Here are the apis I tested:
 
 
 ![image](https://github.com/user-attachments/assets/f898cc7a-be21-465f-b480-009a42c1f772)
+
+
+to run kafka :
+
+docker compose up -d
 
 
 
