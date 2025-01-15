@@ -1,5 +1,12 @@
+![image](https://github.com/user-attachments/assets/3d0b09a2-ecda-4ecd-a987-7d1138169c06)
+
+
 first of all clone the project git clone ...
+
+
 hello to create a realm you ahve to run the fillowing command:
+
+
 docker run -p 8181:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:26.0.5 start-dev
 
 and log to :
